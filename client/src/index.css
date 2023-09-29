@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.form-btn {
+  width: 250px !important;
+  margin-top: 30px !important;
+}
